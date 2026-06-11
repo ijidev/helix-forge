@@ -1,5 +1,5 @@
 {
-    "name": "helix/forge",
+    "name": "helixforge/forge",
     "description": "Helix-Forge: The AI-native PHP framework for building APIs and web apps 10x faster with agents.",
     "type": "project",
     "license": "MIT",
